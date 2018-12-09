@@ -1,17 +1,13 @@
 ---
 title: "Yifan's space"
 date: 2019-12-09
-
 author: Yifan Qian
 email: y.qian@qmul.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
   Yifan's academic website
-
 # social links
 twitter_username: yifan_qian
 github_username:  haczqyf
-
 show_excerpts: true # set to false to remove excerpts on the homepage
-
 theme: minima
 ---
